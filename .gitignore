@@ -1,7 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 /.idea
-/db_repository
 /flask
-app.db
+/db_repository
+/app.db
 /*.pyc
+/app/*.pyc
